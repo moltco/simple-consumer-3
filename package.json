@@ -6,9 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "canary",
-    "react": "19.0.0-rc-7771d3a7-20240827",
-    "react-dom": "19.0.0-rc-7771d3a7-20240827"
+    "next": "^14.2.9",
+    "react": "^18.2",
+    "react-dom": "^18.2",
+    "simple-package": "github:/moltco/simple-package"
   },
   "devDependencies": {
     "@types/node": "20.12.12",
